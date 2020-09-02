@@ -1,0 +1,1 @@
+toilet -f slant '           HACKER'  -F gay | lolcat
