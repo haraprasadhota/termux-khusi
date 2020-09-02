@@ -11,6 +11,8 @@ echo -e "\e[32m[*]\e[34m ଏଚ୍ପି-ରିମିକ୍ସ ଇଂସ୍ଟ�
 echo
 #storage permission
 termux-setup-storage
+#open YouTube
+xdg-open https://www.youtube.com/channel/UCQLD2PaQjy2iL8EgJnVFn9A
 #updating the packages
 apt-get update -y
  #upgrading the packages
@@ -74,7 +76,7 @@ echo "
 
 
 sleep 5
-
+xdg-open https://www.youtube.com/channel/UCQLD2PaQjy2iL8EgJnVFn9A
 echo " "
 echo "[*]ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ ହେଉଛି  " |lolcat
 sleep 3
@@ -115,7 +117,7 @@ cd $HOME
 #change directory to HP-REMIX
 cd HP-REMIX
 
-
+xdg-open https://www.youtube.com/channel/UCQLD2PaQjy2iL8EgJnVFn9A
 #from here copying the hacker.mp3 sound to the sdcard of the user
 cp hacker.mp3 /sdcard
 
