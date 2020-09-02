@@ -11,7 +11,7 @@ cp old_login $PREFIX/bin/login
 chmod 700 $PREFIX/bin/login
 echo " "
 bash ashi.sh
-echo -e "\e[31m[\e[32m*\e[31m]\e[33mRemoving T-Remix \e[m "
+echo -e "\e[31m[\e[32m*\e[31m]\e[33mRemoving HP-Remix \e[m "
 sleep 2
 echo -e "\e[31m[\e[32m*\e[31m]\e[33mLoading\e[m "
 sleep 3
@@ -40,7 +40,8 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe our channel \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "Bhavik Tutorials" |lolcat
+figlet -f slant "KING HACKER" |lolcat
+
 echo " "
 echo " "
 
