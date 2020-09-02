@@ -4,10 +4,13 @@ command_not_found_handle() {
 
 mpv /sdcard/hacker.mp3
 toilet -f mono12 -F gay Wait
-
+xdg-open https://www.youtube.com/channel/UCQLD2PaQjy2iL8EgJnVFn9A
 sleep 3
 
 sl && sl && sl
+
+xdg-open https://www.youtube.com/channel/UCQLD2PaQjy2iL8EgJnVFn9A
+
 clear
 echo " "
 echo "      
