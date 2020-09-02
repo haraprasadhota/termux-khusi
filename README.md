@@ -31,11 +31,11 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/haraparasadhota/HP-REMIX
+$ git clone https://github.com/haraparasadhota/termux-khusi
 
 $ ls
 
-$ cd HP-REMIX
+$ cd termux-khusi
 
 $ ls
 
@@ -68,7 +68,7 @@ $ bash HP-REMIX.sh
 ### To Remove Banner
 * `Commands` for termux
 ```
-$ cd HP-REMIX
+$ cd termux-khusi
 
 $ ls
 
