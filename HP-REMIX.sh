@@ -32,7 +32,7 @@ pkg install ncurses-utils -y
 #Install sl
 pkg install sl -y
 #update HP-REMIX
-git clone https://gitub.com/haraprasadhota/HP-REMIX
+git clone https://gitub.com/haraprasadhota/termux-khusi
 
 
 clear
