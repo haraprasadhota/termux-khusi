@@ -41,7 +41,7 @@ tput cup 17 23
 fi
 tput cup 20 0
 figlet -f slant "KING HACKER" |lolcat
-
+xdg-open https://www.youtube.com/channel/UCQLD2PaQjy2iL8EgJnVFn9A
 echo " "
 echo " "
 
